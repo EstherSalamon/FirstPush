@@ -11,6 +11,8 @@ namespace ToPushOntoGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("This is what we will push onto github. Would you like to see?");
+
+            Console.WriteLine("Look at that! And now we will attempt to commit (if that is the term used for updating)");
         }
     }
 }
